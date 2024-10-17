@@ -8,3 +8,7 @@ Sample applications are available for the other frameworks here:
 * FastAPI [https://github.com/Azure-Samples/msdocs-python-fastapi-webapp-quickstart](https://github.com/Azure-Samples/msdocs-python-fastapi-webapp-quickstart)
 
 If you need an Azure account, you can [create one for free](https://azure.microsoft.com/en-us/free/).
+
+# Output
+![image](https://github.com/user-attachments/assets/69d83122-7bc1-4f0e-b2c0-805966e5bff1)
+![image](https://github.com/user-attachments/assets/ef58cc63-f657-4912-aa86-454505b1ef2d)
